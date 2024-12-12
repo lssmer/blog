@@ -2,33 +2,30 @@
 title: "Library"
 draft: false
 ---
-* Books I’ve Read (or at least started reading)
-
-** Unix and Programming
-- The C Programming Language - K&R
-- The Linux Command Line: A Complete Introduction - Jr. Shotts, William E.
+Books I’ve Read (or at least started reading)
 
 ** Buddhism
+- 中論 - 龍樹菩薩
+- 浄土十疑論 - 天台大師
 - 仏教聖典 - 仏教伝道協会
 - 仏説阿弥陀経
 - 仏説無量寿経
+- 観無量寿経
 - 和語灯録 - 法然上人
 - 選択本願念仏集 - 法然上人
-- 中論 - 龍樹菩薩
-- 観無量寿経
 - Heart Sutra with Commentary - 宣化
 - Honen The Buddhist Saint: Essential Writings and Official Biography - Joseph A. Fitzgerald (Editor)
 - Lives of Great Monks and Nuns - 仏教伝道協会
 - Mahayana Buddhism: The Doctrinal Foundations - Paul Williams
 
-** Confucianism
-- 大学 - 曾子
-- 中庸 - 子思
-
 ** Christianity (Critiques and Historical Context)
 - Collected Refutations of Heterodoxy - 蕅益智旭
 - Deus Destroyed - 不干斎ハビアン
 - Laughing at Christianity - Kiyū Dōjin
+
+** Confucianism
+- 大学 - 曾子
+- 中庸 - 子思
 
 ** Deism
 - The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine
@@ -43,14 +40,19 @@ draft: false
 ** Poetry
 - Divine Comedy - Dante Alighieri
 
-** Pop Culture Studies
-- The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming - Patrick W. Galbraith
-
 ** Political Philosophy
 - Democracy: The God That Failed - Hans-Hermann Hoppe
 - Liberty or Equality: The Challenge of Our Time - Erik Maria Ritter von Kuehnelt-Leddihn
 - The Ethics of Liberty - Murray Newton Rothbard
 
+** Pop Culture Studies
+- The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming - Patrick W. Galbraith
+
 ** Shinto
 - 神道の神秘: 古神道の思想と行法 - 山蔭基央
 - Shinto: The Kami Way - 小野 祖教
+
+** Unix and Programming
+- The C Programming Language - K&R
+- The Linux Command Line: A Complete Introduction - Jr. Shotts, William E.
+
