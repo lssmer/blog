@@ -4,55 +4,54 @@ draft: false
 ---
 Books I’ve Read (or at least started reading)
 
-** Buddhism
-- 中論 - 龍樹菩薩
+* Buddhism
+- 和語灯録 - 法然上人
 - 浄土十疑論 - 天台大師
+- 中論 - 龍樹菩薩
+- 大乗起信論 - 馬鳴菩薩
+- 選択本願念仏集 - 法然上人
 - 仏教聖典 - 仏教伝道協会
 - 仏説阿弥陀経
 - 仏説無量寿経
 - 観無量寿経
-- 和語灯録 - 法然上人
-- 選択本願念仏集 - 法然上人
 - Heart Sutra with Commentary - 宣化
 - Honen The Buddhist Saint: Essential Writings and Official Biography - Joseph A. Fitzgerald (Editor)
 - Lives of Great Monks and Nuns - 仏教伝道協会
 - Mahayana Buddhism: The Doctrinal Foundations - Paul Williams
 
-** Christianity (Critiques and Historical Context)
+* Christianity (Critiques and Historical Context)
 - Collected Refutations of Heterodoxy - 蕅益智旭
 - Deus Destroyed - 不干斎ハビアン
 - Laughing at Christianity - Kiyū Dōjin
 
-** Confucianism
-- 大学 - 曾子
+* Confucianism
 - 中庸 - 子思
+- 大学 - 曾子
 
-** Deism
+* Deism
 - The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine
-
-** Economics
+- Economics
 - Economic Policy: Thoughts for Today and Tomorrow - Ludwig Heinrich Edler von Mises
 - Exploitation Theory of Socialism-Communism: The Idea That All Unearned Income (Rent, Interest and Profit Involves Economic Injustice) - Eugen Böhm Ritter von Bawerk
 
-** Philosophy and Metaphysics
+* Philosophy and Metaphysics
 - Παρμενίδης - Πλάτων
 
-** Poetry
+* Poetry
 - Divine Comedy - Dante Alighieri
 
-** Political Philosophy
+* Political Philosophy
 - Democracy: The God That Failed - Hans-Hermann Hoppe
 - Liberty or Equality: The Challenge of Our Time - Erik Maria Ritter von Kuehnelt-Leddihn
 - The Ethics of Liberty - Murray Newton Rothbard
 
-** Pop Culture Studies
+* Pop Culture Studies
 - The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming - Patrick W. Galbraith
 
-** Shinto
+* Shinto
 - 神道の神秘: 古神道の思想と行法 - 山蔭基央
 - Shinto: The Kami Way - 小野 祖教
 
-** Unix and Programming
+* Unix and Programming
 - The C Programming Language - K&R
 - The Linux Command Line: A Complete Introduction - Jr. Shotts, William E.
-
