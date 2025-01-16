@@ -19,18 +19,23 @@ Books I’ve Read (or at least started reading)
 - Lives of Great Monks and Nuns - 仏教伝道協会
 - Mahayana Buddhism: The Doctrinal Foundations - Paul Williams
 
-* Christianity (Critiques and Historical Context)
-- Collected Refutations of Heterodoxy - 蕅益智旭
-- Deus Destroyed - 不干斎ハビアン
-- Laughing at Christianity - Kiyū Dōjin
+* Shinto
+- 神道の神秘: 古神道の思想と行法 - 山蔭基央
+- Shinto: The Kami Way - 小野 祖教
 
 * Confucianism
 - 中庸 - 子思
 - 大学 - 曾子
 
+* Christianity (Critiques and Historical Context)
+- Collected Refutations of Heterodoxy - 蕅益智旭
+- Deus Destroyed - 不干斎ハビアン
+- Laughing at Christianity - Kiyū Dōjin
+
 * Deism
 - The Age of Reason; Being an Investigation of True and Fabulous Theology - Thomas Paine
-- Economics
+
+* Economics
 - Economic Policy: Thoughts for Today and Tomorrow - Ludwig Heinrich Edler von Mises
 - Exploitation Theory of Socialism-Communism: The Idea That All Unearned Income (Rent, Interest and Profit Involves Economic Injustice) - Eugen Böhm Ritter von Bawerk
 
@@ -38,7 +43,7 @@ Books I’ve Read (or at least started reading)
 - Παρμενίδης - Πλάτων
 
 * Poetry
-- Divine Comedy - Dante Alighieri
+- La Divina Commedia - Dante Alighieri
 
 * Political Philosophy
 - Democracy: The God That Failed - Hans-Hermann Hoppe
@@ -48,9 +53,8 @@ Books I’ve Read (or at least started reading)
 * Pop Culture Studies
 - The Moe Manifesto: An Insider's Look at the Worlds of Manga, Anime, and Gaming - Patrick W. Galbraith
 
-* Shinto
-- 神道の神秘: 古神道の思想と行法 - 山蔭基央
-- Shinto: The Kami Way - 小野 祖教
+* History
+- The world of the shining prince; court life in ancient Japan - Ivan Morris
 
 * Unix and Programming
 - The C Programming Language - K&R
